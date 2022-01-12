@@ -1,0 +1,3 @@
+C:/Users/Informatyka/CLionProjects/Project_Git_Train0101/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Informatyka/CLionProjects/Project_Git_Train0101/cmake-build-debug/CMakeFiles/Project_Git_Train0101.dir
+C:/Users/Informatyka/CLionProjects/Project_Git_Train0101/cmake-build-debug/CMakeFiles/rebuild_cache.dir
